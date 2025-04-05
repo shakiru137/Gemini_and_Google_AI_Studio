@@ -7,7 +7,7 @@
 The Gemini app offers a “Deep Research” feature, designed to streamline and enhance complex information gathering. This functionality allows you to leverage Gemini’s advanced capabilities for in-depth analysis, synthesis, and extraction of insights from diverse data sources directly within the app.
 
 ### Getting Started
-To get started, visit this link: [Gemini Deep Research](https://www.gemini.com) and log in using your Google account.
+To get started, visit this link: [Gemini Deep Research](https://gemini.google.com/app) and log in using your Google account.
 
 ### How to Use "Deep Research"
 1. In the “Ask Gemini” area, type in your question that you need to research about. You don’t need to have a fancy prompt—just a short, concise question is enough.
@@ -24,7 +24,7 @@ Gemini will then begin analyzing your query and gather relevant insights for you
 Another great feature offered by Gemini is its Canvas. It’s a way in which Gemini provides you with an answer in an editable document format that you can even export to Google Docs or have a preview of an app you built using Gemini.
 
 ### Getting Started
-To get started, visit this link: [Gemini Canvas](https://www.gemini.com) and log in using your Google account.
+To get started, visit this link: [Gemini Canvas](https://gemini.google.com/app) and log in using your Google account.
 
 ### How to Use "Gemini Canvas"
 1. In the “Ask Gemini” area, type a question suited for a document-based interaction, such as creating a lesson plan, tutorial, or even building a web app or website. Gemini Canvas supports this and can provide a preview for interactive development.
@@ -45,7 +45,7 @@ Once the document is created, you can export it to Google Docs or use it for fur
 Google AI Studio is a web-based platform designed to facilitate experimentation and development with Google’s generative AI models, including Gemini. It provides a user-friendly interface for building and testing prompts, exploring model capabilities, and integrating AI into various applications.
 
 ### Getting Started
-To get started, visit this link: [Google AI Studio](https://studio.google.com) and log in with your Google account.
+To get started, visit this link: [Google AI Studio](https://aistudio.google.com) and log in with your Google account.
 
 ### Exploring Google AI Studio
 After you open the Google AI Studio, you can check out the various functionalities by looking around. However, the first thing you should check is what model you are using and how you can switch between models.
